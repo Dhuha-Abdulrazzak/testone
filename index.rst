@@ -13,3 +13,5 @@ Welcome to Fantastic-project's documentation!
    feature-a
 
    feature-b
+
+   feature-c
